@@ -8,8 +8,8 @@ I build full-stack web applications that handle complex data, secure authenticat
 
 *   🌍  I'm based in Ethiopia
 *   🖥️  See my portfolio at [my portfolio](http://https://fuadmhd.vercel.app)
-*   ✉️  You can contact me at [fuadmnur19@gmailcom](mailto:fuadmnur19@gmailcom)
-*   🤝  I'm open to collaborating on typescript project
+*   ✉️  You can contact me at [fuadmnur19@gmailcom](mailto:fuadmnur19@gmail.com)
+*   🤝  I'm open to collaborating pn web projects 
 *   ⚡  also i am BATMAN
 
 ### 🧰 Languages and Tools
