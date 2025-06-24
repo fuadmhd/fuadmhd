@@ -1,8 +1,6 @@
 
 ![Preview](portfolio-banner.png)
 
-Full Stack Software Engineer
-----------------------------
 
 I build full-stack web applications that handle complex data, secure authentication, and permission systems designed for real-world scale and reliability.
 
