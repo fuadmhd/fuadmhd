@@ -1,6 +1,6 @@
-<!--
-![Preview](profile-banner.jpg)
--->
+
+![Preview](portfolio-banner.png)
+
 Full Stack Software Engineer
 ----------------------------
 
