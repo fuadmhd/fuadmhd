@@ -1,6 +1,16 @@
 <!--
 ![Preview](profile-banner.jpg)
 -->
+Full Stack Software Engineer
+----------------------------
+
+I build full-stack web applications that handle complex data, secure authentication, and permission systems designed for real-world scale and reliability.
+
+*   🌍  I'm based in Ethiopia
+*   🖥️  See my portfolio at [my portfolio](http://https://fuadmhd.vercel.app)
+*   ✉️  You can contact me at [fuadmnur19@gmailcom](mailto:fuadmnur19@gmailcom)
+*   🤝  I'm open to collaborating on typescript project
+*   ⚡  also i am BATMAN
 
 ### 🧰 Languages and Tools
 
