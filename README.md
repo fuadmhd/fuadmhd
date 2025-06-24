@@ -1,4 +1,6 @@
+<!--
 ![Preview](profile-banner.jpg)
+-->
 
 ### 🧰 Languages and Tools
 
